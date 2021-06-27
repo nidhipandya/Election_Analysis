@@ -5,7 +5,7 @@
 Here we have a Election Results file([**election_results.csv**](https://github.com/nidhipandya/Election_Analysis/blob/main/Resources/election_results.csv)). This project is for analysis of Election Results([**election_results.csv**](https://github.com/nidhipandya/Election_Analysis/blob/main/Resources/election_results.csv)) in Colorado. Using this analysis we generate a report([**election_analysis.txt**](https://github.com/nidhipandya/Election_Analysis/blob/main/analysis/election_analysis.txt)) that shows voting turnouts and election results.
 
 ## Election Audit Results
-when we run the code(in [**Command Prompt**](https://github.com/nidhipandya/Election_Analysis/blob/main/Resources/cmd_Election_analysis.PNG)) and generate the final Report, we can give the answers of the followings questions:
+when we run the code(in [**Command Prompt**](https://github.com/nidhipandya/Election_Analysis/blob/main/Resources/cmd_Election_analysis.PNG)) and generate the final Report([**election_analysis.txt**](https://github.com/nidhipandya/Election_Analysis/blob/main/analysis/election_analysis.txt)), we can give the answers of the followings questions:
 
 #### How many votes were cast in this congressional election?
 In this Election there were 369,711 votes cast. This was calculated by reading each row using a 'for loop' in the election_data.csv file.  The code for this can be found on line 46 in [**PyPoll_Challenge.py**](https://github.com/nidhipandya/Election_Analysis/blob/main/PyPoll_Challenge.py).
